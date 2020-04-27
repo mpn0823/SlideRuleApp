@@ -1,0 +1,20 @@
+    * {
+        background-color: black;
+        color: orange;
+        font-size: xx-large;
+        font-family: 'Roboto Condensed', sans-serif;
+    }
+    
+    .slidecontainer {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    table {
+        display: flex;
+        justify-content: center;
+    }
+    
+    th {
+        border: 1px solid orange;
+    }
